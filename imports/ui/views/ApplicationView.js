@@ -51,9 +51,7 @@ export default class ApplicationView extends React.Component{
                       width={200}
                       open={this.state.open}
                     >
-                    <MenuItem onTouchTap={ ()=>this.onDrawer() }>Designs</MenuItem>
-                    <MenuItem onTouchTap={ ()=>this.onDrawer() }>Designer</MenuItem>
-                    <MenuItem onTouchTap={ ()=>this.onDrawer() }>Products</MenuItem>
+                    <MenuItem onTouchTap={ ()=>this.onDrawer() }>Temp</MenuItem>
                 </Drawer>
 
 
