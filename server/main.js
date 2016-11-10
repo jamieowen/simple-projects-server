@@ -1,4 +1,4 @@
-import Meteor from 'meteor';
+import { Meteor } from 'meteor';
 
 //import '../imports/startup/server';
 
