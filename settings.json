@@ -1,0 +1,15 @@
+{
+
+    "deployFolder":"/a_folder",
+
+    "defaultProjects":[
+        {
+            "id": "project-test-deploy",
+            "repository": "https://github.com/jamieowen/project-test-deploy.git"
+        },
+        {
+            "id":"",
+            "repository": "https://github.com/jamieowen/project-test-no-deploy.git"
+        }
+    ]
+}

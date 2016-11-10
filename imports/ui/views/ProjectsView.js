@@ -10,6 +10,16 @@ export default class ProjectsView extends React.Component{
             open: false
         }
 
+        /**let fuckYou = {
+
+            'bastard.cunt'(){
+                console.log( 'SHIT FACE FUCK ARSE!' );
+            }
+
+        }
+
+        window.test = fuckYou;**/
+
     }
 
     render(){
